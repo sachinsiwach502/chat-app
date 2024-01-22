@@ -335,6 +335,7 @@
     line-height: normal;
     border: #3781FF 1px solid;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 .pd-50 {
@@ -505,7 +506,3 @@ ol li {
     /* 21.021px */
     padding-top: 100px;
 }
-
-/* .ol-1{
-    padding-left: 12px;
-} */
